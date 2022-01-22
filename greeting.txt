@@ -1,1 +1,5 @@
+<<<<<<< Updated upstream
 GREETING
+=======
+happy birthday
+>>>>>>> Stashed changes
